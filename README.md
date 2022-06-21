@@ -4,9 +4,7 @@ My name's Mahdi and I'm a Computer Science graduate, from Middlesex University. 
 
 ## Skills & Experience
 * C++
-* HTML, CSS
-* JavaScript
-* PHP
+* HTML, CSS, PHP & JavaScript
 * Java
 * Python
 * Kotlin
