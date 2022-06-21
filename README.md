@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name's Mahdi and I'm a 3rd year Computer Science student, at Middlesex University. I'm currently working on developing a learning app as part of my dissertation module, as well as undertaking courses such as Advanced Web Development, UX Design and Novel Interactions & Technology.
+My name's Mahdi and I'm a Computer Science graduate, from Middlesex University. I've covered courses such as Software Engineering & Data Structures and Object Orientated Programming, as well as Advanced Web Development, UX Design and Novel Interactions & Technology for my third year modules. 
 
 ## Skills & Experience
 * C++
