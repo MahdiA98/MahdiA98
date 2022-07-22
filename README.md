@@ -5,8 +5,10 @@ My name's Mahdi and I'm a Computer Science graduate. I've undertaken courses suc
 I'm currently seeking employment as a Software Developer, with an interest in Data Analysis and Cyber Security.
 
 ## Skills & Experience
-* C++
-* HTML, CSS, PHP & JavaScript
 * Java
+* C++
+* HTML & CSS
+* JavaScript
+* PHP
 * Python
 * Kotlin
