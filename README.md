@@ -11,4 +11,3 @@ I'm currently seeking employment as a Software Developer, with an interest in Da
 * JavaScript
 * PHP
 * Python
-* Kotlin
